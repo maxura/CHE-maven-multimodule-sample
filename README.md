@@ -1,0 +1,1 @@
+# CHE-maven-multimodule-sample
